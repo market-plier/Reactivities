@@ -8,3 +8,4 @@ namespace Domain
         public string Name {get; set;}
     }
 }
+
