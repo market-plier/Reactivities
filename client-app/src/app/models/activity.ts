@@ -2,7 +2,7 @@ export interface IActivity
 {
     id: string;
     title: string;
-    descripion: string;
+    description: string;
     category: string;
     date: Date;
     city: string;
